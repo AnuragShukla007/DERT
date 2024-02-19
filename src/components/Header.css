@@ -1,0 +1,13 @@
+/* src/components/Header.css */
+.header-title {
+  text-align: center;
+  margin: 20px 0;
+  color: #333;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+}
+
+
+  
